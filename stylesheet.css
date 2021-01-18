@@ -1,0 +1,15 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family:sans-serif Georgia, 'Times New Roman', Times, serif ;
+}
+.container-fluid{
+    text-align: center;    
+}
+.content{
+    width: 100%;
+}
+
+#h1{
+    margin:5% 0%;
+}
